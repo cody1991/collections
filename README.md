@@ -12,13 +12,13 @@
 
 #收集列表 
 
-项目名称 | 项目简介 | 关注量
+项目名称 | 项目简介 | 关注量 | 计划
 -----|-----|-----
 [select2](https://github.com/select2/select2) | 不错的下拉控件，基于jquery | 17331
 [skrollr](https://github.com/Prinzhorn/skrollr) | 制作滚动视觉差的插件 | 15635
 [webpack](https://github.com/webpack/webpack) | webpack | 15269
 [es6features](https://github.com/lukehoban/es6features) | 学习es6 | 14950
-[slick](https://github.com/kenwheeler/slick) | 轮播插件 | 14781
+[slick](https://github.com/kenwheeler/slick) | 轮播插件 | 14781 | 学习，替换swiper
 [fullpage.js](https://github.com/alvarotrigo/fullPage.js) | 全屏滚动插件 | 14475
 [intro.js](https://github.com/usablica/intro.js) | 不错的网页新手指令 | 13958
 [hammerjs](https://github.com/hammerjs/hammer.js) | 手势触碰库 | 13886
@@ -35,3 +35,16 @@
 [zepto](https://github.com/madrobby/zepto) | 手机版本的jquery | 10702
 [velocity](https://github.com/julianshapiro/velocity) | 加速的js动画 | 10607
 [koa](https://github.com/koajs/koa) | 表现力强劲的Node.js中间件 | 10393
+[masonry](https://github.com/desandro/masonry) | 瀑布流布局 | 10149
+[parallax](https://github.com/wagerfield/parallax) | 制作视觉滚动差 | 9929
+[pace](https://github.com/HubSpot/pace) | 添加可定制化进度条 | 9853
+[scrollreveal.js](https://github.com/jlmakes/scrollreveal.js) | 监听滚动，给元素添加动画 | 9595
+[requirejs](https://github.com/requirejs/requirejs) | 文件模块加载器 | 9296
+[weui](https://github.com/weui/weui) | 仿微信界面的前端框架 | 9113
+[cheerio](https://github.com/cheeriojs/cheerio) | 为客户端设计的类jquery定义 | 8603
+[bootstrap](https://github.com/twbs/bootstrap) | 最流行的前端开发框架 | 96543
+[d3](https://github.com/d3/d3) | 把数据通过svg,canvas和html展示出来 | 50349
+[font-awesome](https://github.com/FortAwesome/Font-Awesome) | 图标文字 | 42492
+[javascript](https://github.com/airbnb/javascript) | javascript编写规范 | 35586
+[animate.css](https://github.com/daneden/animate.css) | 动画库 | 32480
+[You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | javascript一个系列的书 | 31263 | 计划学习
