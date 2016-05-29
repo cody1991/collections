@@ -25,3 +25,13 @@
 [hover](https://github.com/IanLunn/Hover) | 悬浮鼠标时候的动画 | 13533
 [dragula](https://github.com/bevacqua/dragula) | 拖放元素库 | 13299
 [fastclick](https://github.com/ftlabs/fastclick) | 消除300ms延时 | 12512
+[phaser](https://github.com/photonstorm/phaser) | 制作2d游戏 | 12269
+[clipboard.js](https://github.com/zenorocha/clipboard.js) | 把内容复制到剪切板 | 12010
+[echarts](https://github.com/ecomfe/echarts) | 百度强大的制作可视化表格 | 11959
+[q](https://github.com/kriskowal/q) | A tool for creating and composing asynchronous promises in JavaScript | 11714
+[photoSwipe](https://github.com/dimsemenov/PhotoSwipe) | 一个蛮不错的图片放大展示插件 | 11238
+[nprogress](https://github.com/rstacruz/nprogress) | 简单的进程条 | 11197
+[request](https://github.com/request/request) | 最简单的HTTP请求客户端 | 11101
+[zepto](https://github.com/madrobby/zepto) | 手机版本的jquery | 10702
+[velocity](https://github.com/julianshapiro/velocity) | 加速的js动画 | 10607
+[koa](https://github.com/koajs/koa) | 表现力强劲的Node.js中间件 | 10393
