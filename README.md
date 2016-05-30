@@ -20,7 +20,7 @@
 [es6features](https://github.com/lukehoban/es6features) | 学习es6 | 14950 |
 [slick](https://github.com/kenwheeler/slick) | 轮播插件 | 14781 | 学习，替换swiper
 [fullpage.js](https://github.com/alvarotrigo/fullPage.js) | 全屏滚动插件 | 14475 |
-[intro.js](https://github.com/usablica/intro.js) | 不错的网页新手指令 | 13958 |
+[intro.js](https://github.com/usablica/intro.js) | 不错的网页新手指引 | 13958 |
 [hammerjs](https://github.com/hammerjs/hammer.js) | 手势触碰库 | 13886 |
 [hover](https://github.com/IanLunn/Hover) | 悬浮鼠标时候的动画 | 13533 |
 [dragula](https://github.com/bevacqua/dragula) | 拖放元素库 | 13299 |
