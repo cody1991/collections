@@ -48,3 +48,21 @@
 [javascript](https://github.com/airbnb/javascript) | javascript编写规范 | 35586 |
 [animate.css](https://github.com/daneden/animate.css) | 动画库 | 32480 |
 [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | javascript一个系列的书 | 31263 | 计划学习
+[reveal.js](https://github.com/hakimel/reveal.js) | 可以用来做网页版本的PPT | 28346 | 
+[impress.js](https://github.com/impress/impress.js)  | 也是可以用来做网页版PPT的插件 | 27438 | 
+[express](https://github.com/expressjs/express) | express | 25431 | 
+[socket.io](https://github.com/socketio/socket.io) | 实时应用框架 | 25230 | 
+[node](https://github.com/nodejs/node) | node.js | 23606 |
+[normalize.css](https://github.com/necolas/normalize.css) | 初始化浏览器的CSS样式 | 21368 | 
+[gulp](https://github.com/gulpjs/gulp) | 基于流的前端自动化构建工具 | 21304 |   
+[vue](https://github.com/vuejs/vue) | MVVM前端开发框架 | 19704 | 
+[async](https://github.com/caolan/async) | Async utilities for node and the browser | 17863 | 
+[Swiper](https://github.com/nolimits4web/Swiper) | 轮播插件 | 8319 |
+[fetch](https://github.com/github/fetch) | A window.fetch JavaScript polyfill.  | 8233 |
+[spin.js](https://github.com/fgnass/spin.js) | 制作loading图标 | 8177 | 
+[headroom.js](https://github.com/WickyNilliams/headroom.js) |　根据需要显示或者隐藏导航条　| 8116 |
+[Manific-popup](https://github.com/dimsemenov/Magnific-Popup) | 弹出放大图片展示 | 8097 | 
+[selectize.js](https://github.com/selectize/selectize.js) | 混合textbox和select的使用 |　8078 |
+[superagent](https://github.com/visionmedia/superagent) | Ajax with less suck - (and node.js HTTP client to match) | 7592 |
+[iscroll](https://github.com/cubiq/iscroll) | 让页面更加顺畅的滑动 | 7545 | 
+[frontend-stuff](https://github.com/moklick/frontend-stuff) | 前端资源收集 | 7407 |  
