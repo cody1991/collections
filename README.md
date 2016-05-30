@@ -65,4 +65,17 @@
 [selectize.js](https://github.com/selectize/selectize.js) | 混合textbox和select的使用 |　8078 |
 [superagent](https://github.com/visionmedia/superagent) | Ajax with less suck - (and node.js HTTP client to match) | 7592 |
 [iscroll](https://github.com/cubiq/iscroll) | 让页面更加顺畅的滑动 | 7545 | 
-[frontend-stuff](https://github.com/moklick/frontend-stuff) | 前端资源收集 | 7407 |  
+[frontend-stuff](https://github.com/moklick/frontend-stuff) | 前端资源收集 | 7407 | 
+[waypoints](http://imakewebthings.com/waypoints/guides/getting-started/) | 监控滑动到某个元素后触发方法 | 7177 |  
+[mo.js](https://github.com/legomushroom/mojs) | 制作一些不错的动画效果 | 7068 | 
+[isotope](https://github.com/metafizzy/isotope) | 一个效果不错过滤排序插件 | 7038 | 
+[Framework7](https://github.com/nolimits4web/Framework7) | 类APP前端开发框架 | 7030 | 
+[Parsley.js](https://github.com/guillaumepotier/Parsley.js) | 表单验证工具 | 6995 | 
+[jquery.transit](https://github.com/rstacruz/jquery.transit) | 更加顺畅的CSS3动画 | 6985 | 
+[list.js](https://github.com/javve/list.js) | 为表格列表等添加查询排序过滤等功能 | 6762 | 
+[webpack-howto](https://github.com/petehunt/webpack-howto) | webpack教程 | 6712 | 
+[paper.js](https://github.com/paperjs/paper.js) | 制作canvas效果 | 6449 | 有兴趣看看
+[jquery-validation](https://github.com/jzaefferer/jquery-validation) | 表单验证工具 | 6375 | 
+[WOW](https://github.com/matthieua/WOW) |　滚动时给元素添加动画　| 6000 | 
+[gridster.js](https://github.com/ducksboard/gridster.js) | 可拖动瀑布流布局 | 6064 |
+[fine-uploader](https://github.com/FineUploader/fine-uploader) | 文件上传插件 | 5937 |
