@@ -79,3 +79,12 @@
 [WOW](https://github.com/matthieua/WOW) |　滚动时给元素添加动画　| 6000 | 
 [gridster.js](https://github.com/ducksboard/gridster.js) | 可拖动瀑布流布局 | 6064 |
 [fine-uploader](https://github.com/FineUploader/fine-uploader) | 文件上传插件 | 5937 |
+[icheck](https://github.com/fronteed/icheck) | 个性化checkbox和radio | 5902 | 
+[octotree](https://github.com/buunguyen/octotree) | github代码树形结构 | 5796 |
+[code-guide](https://github.com/mdo/code-guide) | 前端开发代码规范 | 5645 | 
+[seajs](https://github.com/seajs/seajs) | 模块加载工具 | 5587 | 
+[js-the-right-way](https://github.com/braziljs/js-the-right-way) | javascript学习资源整合 | 5539 | 感觉值得一看
+[dynamics.js](https://github.com/michaelvillar/dynamics.js) | 基于物理的js动画 | 5453 |
+[awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) | 网络性能优化的收集库 | 5406 | 
+[imagesloaded](https://github.com/desandro/imagesloaded) | 监控图片加载进程 | 5301 |
+[interact.js](https://github.com/taye/interact.js) | 手势拖放框架 | 5269 | 
