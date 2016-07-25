@@ -27,8 +27,24 @@ http://web.jobbole.com/86970/
 
 http://www.w3cplus.com/css/dirty-tricks-dark-corners-front-end-pt1.html
 
+前端开发中的一些黑魔法Pt2
+
+http://www.w3cplus.com/css/dirty-tricks-dark-corners-front-end-pt2.html
+
 <hr/>
 
 前端开发者不得不知的ES6十大特性
 
 http://web.jobbole.com/86984/
+
+<hr/>
+
+Vue+Webpack使用规范
+
+https://www.talkingcoder.com/article/6309726065044556372
+
+<hr/>
+
+使用VueJS 2.0开发一款app
+
+https://github.com/DDFE/vue-blog/issues/1
