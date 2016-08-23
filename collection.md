@@ -1,4 +1,4 @@
-# 文章
+### 文章
 
 一个系列，首篇[从零开始，DIY一个jQuery（1）](http://www.cnblogs.com/vajoy/p/5510743.html)
 
@@ -14,11 +14,11 @@
 
 [給 JavaScript 初心者的 ES2015 實戰](http://lifemap.in/es2015-in-action/)
 
-# 网站
+### 网站
 
 [掘金](http://gold.xitu.io/tag/vue.js)
 
-# 博客
+### 博客
 
 [CSS探索之旅](http://blog.doyoe.com/)
 
@@ -32,13 +32,13 @@
 
 ---
 
-# Vue.js
+### Vue.js
 
 简单的教程，这作者还写了一些其他的文章 [使用Vue.js从零构建GitHub项目浏览器](http://xlbd.me/vue-demo-github-file-explorer/)
 
 ---
 
-# flex
+### Flex
 
 学习资料：
 
