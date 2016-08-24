@@ -69,3 +69,37 @@
 看完上面这些应该能很好地使用flex布局了
 
 ---
+
+## 插件
+
+导航类:
+
+[stickUp.js 一个 jQuery 插件](http://www.bootcss.com/p/stickup/)
+
+[Headroom.js 为页面顶部多留些空间。在不需要页头时将其隐藏。](http://www.bootcss.com/p/headroom.js/)
+
+[responsive-nav.js 响应式导航](http://www.bootcss.com/p/responsive-nav.js/)
+
+[Headhesive.js: An on-demand sticky header.](https://markgoodyear.com/labs/headhesive/)
+
+[Snap.js](http://jakiestfu.github.io/Snap.js/demo/apps/toggles.html)
+
+轮播类：
+
+[Owl Carousel 2 Touch enabled jQuery plugin that lets you create a beautiful responsive carousel slider.](http://www.owlcarousel.owlgraphic.com/)
+
+[slick.js the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
+
+[swiper.js Most Modern Mobile Touch Slider](http://idangero.us/swiper/)
+
+单页类：
+
+[fullPage.js Create Beautiful Fullscreen Scrolling Websites](http://alvarotrigo.com/fullPage/)
+
+图片放大类：
+
+[Lightbox2](http://lokeshdhakar.com/projects/lightbox2/)
+
+侧边栏类：
+
+[mmenu Empower your website with a mobile menu that has the true native app menu experience with sliding submenus.](http://mmenu.frebsite.nl/)
