@@ -24,6 +24,10 @@
 
 ## 博客
 
+[JS Tips – A JS tip per day!](http://www.jstips.co/zh_CN/)
+
+---
+
 [CSS探索之旅](http://blog.doyoe.com/)
 
 ---
