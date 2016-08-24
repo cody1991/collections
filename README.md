@@ -8,6 +8,10 @@
 
 ---
 
+[我眼中软件工程里的常识](https://segmentfault.com/a/1190000006636138)
+
+---
+
 [不用jQuery实现简单的JavaScript幻灯片](http://www.zcfy.cc/article/411)
 
 ---
