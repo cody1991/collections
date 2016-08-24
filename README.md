@@ -2,6 +2,8 @@
 
 [JavaScript Style Guide](https://github.com/airbnb/javascript)
 
+---
+
 一个系列，首篇[从零开始，DIY一个jQuery（1）](http://www.cnblogs.com/vajoy/p/5510743.html)
 
 --- 
