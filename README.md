@@ -1,5 +1,11 @@
 ## 文章
 
+[JavaScript基于时间的动画算法](http://www.w3cplus.com/animation/javascript-animation-algorithm-based-on-time.html)
+
+[前端独立技术博客推荐](http://www.jackpu.com/qian-duan-du-li-bo-ke-tui-jian/)
+
+[原生js和jquery处理cookie的插件介绍](http://weber.pub/%E5%8E%9F%E7%94%9Fjs%E5%92%8Cjquery%E5%A4%84%E7%90%86cookie%E7%9A%84%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D/155.html)
+
 [JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ---
