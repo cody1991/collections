@@ -66,6 +66,10 @@
 
 ---
 
+[vuejs-the-basics](https://coligo.io/vuejs-the-basics/)
+
+---
+
 ## Flex
 
 学习资料：
