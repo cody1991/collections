@@ -66,7 +66,7 @@
 
 ---
 
-[vuejs-the-basics](https://coligo.io/vuejs-the-basics/)
+[系列文章 - Vue.js Tutorials](https://coligo.io/tag/vue)
 
 ---
 
