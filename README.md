@@ -1,5 +1,9 @@
 ## 文章
 
+[统一回复《怎么学JavaScript？》](http://www.w3cfuns.com/notes/17398/d3f6dd40e2d3ff15b209810dfa98be0b.html)
+
+---
+
 [用canvas画一轮明月，夜空与流星](http://ycwalker.com/2016/09/15/canvas-moon/)
 
 ---
@@ -61,6 +65,10 @@
 ---
 
 ## Vue.js
+
+[Building an Image Slider with Vue.js](https://2helixtech.com/building-an-image-slider-with-vuejs/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
+
+---
 
 简单的教程，这作者还写了一些其他的文章 [使用Vue.js从零构建GitHub项目浏览器](http://xlbd.me/vue-demo-github-file-explorer/)
 
