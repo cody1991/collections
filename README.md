@@ -1,5 +1,9 @@
 ## 面试资源
 
+[前端面试中的常见的算法问题](http://www.jackpu.com/qian-duan-mian-shi-zhong-de-chang-jian-de-suan-fa-wen-ti/)
+
+---
+
 [前端求职面试汇总版本，可能和后面的有重复](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource#前端求职面试)
 
 ---
