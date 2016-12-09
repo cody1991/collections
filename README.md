@@ -2,27 +2,51 @@
 
 来自 [学习 Web 开发最好的 12 个网站](https://gold.xitu.io/entry/584a27750ce463005c4bb49b/detail?utm_source=gold_browser_extension)
 
+---
+
 [sixrevisions.com](http://sixrevisions.com/) Six Revisions 现在不是以Web开发经验分享为主的博客网站，访问该网站可以获取Web最新消息，Six Revisions会发表一些非常有用的博客，它的更新周期基本上2~5天
+
+---
 
 [speckyboy.com](https://speckyboy.com/) Specky Boy 博客戏称自身是一本教设计的杂志。Specky Boy 的创始人Paul Andrew说:我们的网站不仅仅为开发者提供一些资源，更期望成为开发者获取最新技术的第一渠道。Speckyboy对前端开发人员来说是非常有用的，它是实时更新的资源库。
 
+---
+
 [WebResourcesDepot](https://webresourcesdepot.com/) WebResourcesDepot是超级有用的Web开发博客，可以每天推送最新的posts! 开发人员再也不用担心博客搜索难啦！
+
+---
 
 [DailyJS](http://dailyjs.com/) DailyJS中可以找到非常有用的JavaScript框架，它会发布一些新闻以及JavaScript的各种资源
 
+---
+
 [Smashing Magazine](https://www.smashingmagazine.com/) Smashing Magazine也是非常有名的网站，这个网站基本是每天都会更新的，提供一些关于HTML，CSS，JavaScript的资源
+
+---
 
 [David Walsh](https://davidwalsh.name/) 如果你想在Web开发中有所建树，那一定要访问David Walsh，在这里可以找到CSS，jQuery，JavaScript,PHP,MySQL等相关资源，此网站是IT开发必备
 
+---
+
 [OnextraPixel](http://www.onextrapixel.com/) OXP更多的是关于Web设计的网站，尽管如此，该网站也提供一些非常有价值的Web开发相关的文章，如HTML5，jQuery等，你都会有所收获
+
+---
 
 [Stoyan's phpied.com](http://www.phpied.com/) 这其实是Stoyan Stefanov个人博客，他是facebook的工程师，写了很多技术相关的书，所以他的博客很值得阅读。访问他的博客会获取最新文章，最新流行的工具及框架
 
+---
+
 [Coding Horror](https://blog.codinghorror.com/) Coding Horror是Jeff Atwood撰写的，是非常好的学习资源，可以帮助开发人员开阔视野
+
+---
 
 [Alex Sexton](https://alexsexton.com/) 这是Alex Sexton的个人网站，主要是关于JavaScript的
 
+---
+
 [Paul Irish](https://www.paulirish.com/) 开发人员应该都会知道Paul ，他开发了很多提升效率的工具，让开发变得更加便捷简单。他目前在Google Chrome 开发工具部工作。通过阅读他的博客，可以收获好多！！！
+
+---
 
 [Scotch.io](Scotch.io主要是关于AngularJS,node，JavaScript，Bootstrap等内容的博客网站) 主要是关于AngularJS,node，JavaScript，Bootstrap等内容的博客网站
 
