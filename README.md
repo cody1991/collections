@@ -48,7 +48,7 @@
 
 ---
 
-[Scotch.io](Scotch.io主要是关于AngularJS,node，JavaScript，Bootstrap等内容的博客网站) 主要是关于AngularJS,node，JavaScript，Bootstrap等内容的博客网站
+[Scotch.io](https://scotch.io/) 主要是关于AngularJS,node，JavaScript，Bootstrap等内容的博客网站
 
 ## 面试资源
 
